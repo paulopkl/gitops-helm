@@ -38,7 +38,6 @@ service:
       targetPort: 5000
 
 image:
-  # repository: robertsilvatech/sample-python-application
   repository: paulopkl/api-gitops
   imagePullPolicy: Always
   tag: dev-6c8e7c59
