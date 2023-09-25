@@ -1,5 +1,5 @@
 image:
-  tag: prod-759ac3b9
+  tag: prod-cc17d11
 
 env:
   COLOR: RED
