@@ -1,6 +1,5 @@
 image:
   tag: prod-cc17d11
-  # Test bypass
 
 env:
   COLOR: RED
